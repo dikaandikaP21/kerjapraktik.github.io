@@ -1,0 +1,12 @@
+footer {
+  text-align: center;
+  background: #e64b1f;
+  background-color: #e64b1f;
+}
+footer.h1 {
+  font-style: bold;
+  font-family: "Montserrat";
+}
+.p {
+  font-style: normal;
+}
